@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="key_digit" formatted="true">%1$s</string>
+    <string name="key_decimal">.</string>
+    <string name="key_clear">AC</string>
+    <string name="key_toggle_sign">+/−</string>
+    <string name="key_percent" formatted="false">%</string>
+    <string name="key_divide">÷</string>
+    <string name="key_multiply">×</string>
+    <string name="key_subtract">−</string>
+    <string name="key_add">+</string>
+    <string name="key_equals">=</string>
+
+    <string name="history_title">Historial</string>
+    <string name="history_empty">Aún no hay operaciones</string>
+    <string name="back_to_calculator">Calculadora</string>
+
+    <string name="error_division_by_zero">No se puede dividir entre cero</string>
+    <string name="error_result_too_large">Resultado demasiado grande</string>
+</resources>

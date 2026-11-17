@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calc_background">#FF000000</color>
+    <color name="calc_text_primary">#FFFFFFFF</color>
+    <color name="calc_text_secondary">#FF8E8E93</color>
+    <color name="calc_text_error">#FFFF453A</color>
+    <color name="calc_digit_background">#FF333333</color>
+    <color name="calc_digit_content">#FFFFFFFF</color>
+    <color name="calc_function_background">#FFA5A5A5</color>
+    <color name="calc_function_content">#FF000000</color>
+    <color name="calc_operator_background">#FFFF9F0A</color>
+    <color name="calc_operator_content">#FFFFFFFF</color>
+    <color name="calc_operator_active_background">#FFFFFFFF</color>
+    <color name="calc_operator_active_content">#FFFF9F0A</color>
+    <color name="calc_divider">#FF2C2C2E</color>
+</resources>
